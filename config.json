@@ -1,0 +1,22 @@
+{
+  "categories": [
+    {
+      "name": "APEX",
+      "create_channel_id": 1561391437910638592,
+      "channel_prefix": "🎮 APEX 傳送門 #",
+      "user_limit": 3
+    },
+    {
+      "name": "Overwatch",
+      "create_channel_id": 1561532225839824987,
+      "channel_prefix": "🛡️ OW 傳送門 #",
+      "user_limit": 5
+    },
+    {
+      "name": "遊戲 3",
+      "create_channel_id": 345678901234567890,
+      "channel_prefix": "🔊 遊戲 3 #",
+      "user_limit": 0
+    }
+  ]
+}
